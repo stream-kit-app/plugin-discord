@@ -1,0 +1,15 @@
+{
+  "key": "discord",
+  "name": "Discord",
+  "version": "0.1.0-alpha.0",
+  "description": "Discord bot messages, roles, and voice events.",
+  "icon": "ri:discord-fill",
+  "entry": "dist/index.js",
+  "dependencies": [
+    "core"
+  ],
+  "streamKitVersion": ">=0.1.0",
+  "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-discord/main/manifest.json",
+  "downloadUrl": "https://github.com/stream-kit-app/plugin-discord/releases/download/v0.1.0-alpha.0/plugin-discord.zip",
+  "sha256": "355cdde60ee99413685b80593d515bbda237a686c3194d894862de7de49ab6b2"
+}
