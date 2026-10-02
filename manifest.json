@@ -5,11 +5,9 @@
   "description": "Discord bot messages, roles, and voice events.",
   "icon": "ri:discord-fill",
   "entry": "dist/index.js",
-  "dependencies": [
-    "core"
-  ],
+  "dependencies": [],
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-discord/main/manifest.json",
   "downloadUrl": "https://github.com/stream-kit-app/plugin-discord/releases/download/v0.1.0-alpha.0/plugin-discord.zip",
-  "sha256": "72fd2125f8fd8b323e80d2f7e69607f0c62f1c6eec52dac6d1dfa2b8ef70b4ef"
+  "sha256": "37c3d10db52d4621869a7d257ec3ae78a2083113be5fcc8b5d5dbff8c54e762e"
 }
